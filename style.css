@@ -860,7 +860,7 @@ font-weight: 400%;
 
 /* project colour cards */
 .pc-duck {
-  background-image: url("./src/obvv.png");
+  background-image: url("./obvv.png");
   background-size: 110% ;
   background-repeat: no-repeat;
   background-position: center;
@@ -868,7 +868,7 @@ font-weight: 400%;
   opacity: 0.4;
 }
 .pc-beta {
-  background-image: url("./src/celestia.png");
+  background-image: url("./celestia.png");
   background-size: 140%;
   background-repeat: no-repeat;
   background-position: center;
@@ -876,7 +876,7 @@ font-weight: 400%;
   opacity: 0.3;
 }
 .pc-meta {
-  background-image: url("./src/vibify.png");
+  background-image: url("./vibify.png");
   background-size: 190%;
   background-repeat: no-repeat;
   background-position: center;
@@ -884,7 +884,7 @@ font-weight: 400%;
   opacity: 0.3;
 }
 .pc-box {
-  background-image: url("./src/sot.png");
+  background-image: url("./sot.png");
   background-size: 190%;
   background-repeat: no-repeat;
   background-position: center;
@@ -892,7 +892,7 @@ font-weight: 400%;
   opacity: 0.3;
 }
 .pc-r {
-  background-image: url("./src/simson.png");
+  background-image: url("./simson.png");
   background-size: 190%;
   background-repeat: no-repeat;
   background-position: center;
